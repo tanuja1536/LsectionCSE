@@ -1,2 +1,2 @@
 # LsectionCSE
-this a demo repository created for understanding Github modification done delay.
+this a demo repository modified branch file.
