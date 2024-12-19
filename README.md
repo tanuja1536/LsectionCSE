@@ -1,2 +1,3 @@
 # LsectionCSE
-this a demo repository modified branch file.
+this is demo tutorial of git,github on programming knowledge
+
